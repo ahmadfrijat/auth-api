@@ -1,8 +1,8 @@
 # auth-api
 
-* [GitHub actions](https://github.com/ahmadfrijat/bearer-auth/actions)
-* [pull request](https://github.com/ahmadfrijat/bearer-auth/pull/1)
-* [heroku deployment app](https://ahmad-bearer-auth.herokuapp.com/)  
+* [GitHub actions](https://github.com/ahmadfrijat/auth-api/actions)
+* [pull request](https://github.com/ahmadfrijat/auth-api/pull/1)
+* [heroku deployment app](https://ahmad-auth-api.herokuapp.com/)  
 
 
 # how to work :
